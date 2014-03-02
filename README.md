@@ -102,10 +102,10 @@ enviar y recibir los mensajes.
 
 Screenshot en: *[etc/screenshots/cliente_web.jpg] (https://github.com/logicaalternativa/gateway-gtalk-websocket-vertx/blob/master/etc/screenshots/cliente_web.jpg)*
 
-## Principales clases
+## Clases principales
 ---------------------
 
-### [Server] (https://github.com/logicaalternativa/gateway-gtalk-websocket-vertx/blob/master/src/main/java/com/logicaalternativa/ejemplos/vertx/Server.java)
+## [Server] (https://github.com/logicaalternativa/gateway-gtalk-websocket-vertx/blob/master/src/main/java/com/logicaalternativa/ejemplos/vertx/Server.java)
 Verticle que levanta el servidor web, el de sockets y la conexión a 
 Gtalk
 
@@ -121,6 +121,7 @@ se encarga de la gestión de los mensajes que llegan desde la cuenta Boot
 
 ## [HandlerBuffer] (https://github.com/logicaalternativa/gateway-gtalk-websocket-vertx/blob/master/src/main/java/com/logicaalternativa/ejemplos/vertx/HandlerBuffer)
 Se encarga de la gestión de los mensajes que llegan desde los websocket
+
 
 M.E.
 
