@@ -127,3 +127,6 @@ M.E.
 
 **[LogicaAlternativa.com] (http://www.logicaalternativa.com)**
 
+Este proyecto está relacionado con la entrada en el blog:
+**[﻿Vert.x: Mucho más que trabajar en Java como en node.js.. y en groovy, ruby,...] (http://www.logicaalternativa.com/?p=583)**
+
